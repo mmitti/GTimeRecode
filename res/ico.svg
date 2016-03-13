@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- The icon can be used freely in both personal and commercial projects with no attribution required, but always appreciated. 
+You may NOT sub-license, resell, rent, redistribute or otherwise transfer the icon without express written permission from iconmonstr.com -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   enable-background="new 0 0 512 512"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="iconmonstr-calendar-icon.svg"
+   inkscape:export-filename="C:\Users\mmitti\Desktop\32.png"
+   inkscape:export-xdpi="5.625"
+   inkscape:export-ydpi="5.625"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="101.60738"
+     inkscape:cy="343.61858"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" /><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:20;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4137"
+     width="414.62439"
+     height="372.62439"
+     x="48.687805"
+     y="69.687805" /><path
+     id="calendar-icon"
+     d="m 197.453,272.952 -58.905,0 0,-58.904 58.905,0 0,58.904 z m 88.999,-58.904 -58.904,0 0,58.904 58.904,0 0,-58.904 z m 89,0 -58.905,0 0,58.904 58.905,0 0,-58.904 z m -177.999,86 -58.905,0 0,58.905 58.905,0 0,-58.905 z m 88.999,0 -58.904,0 0,58.905 58.904,0 0,-58.905 z M 50.000003,70.999998 50.000003,441 462,441 l 0,-370.000002 -411.999998,0 z M 362,401 l 0,-59 60,0 -60,59 z m 60,-89 -90,0 0,89 -241.999998,0 0,-233.471 L 422,167.529 422,312 Z"
+     style="fill:#004488;fill-opacity:1"
+     inkscape:connector-curvature="0" /></svg>
